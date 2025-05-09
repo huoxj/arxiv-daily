@@ -1,0 +1,7 @@
+[arxiv]
+query = "PIR"
+max_results = 10
+
+[markdown]
+path = "README.md"
+columns = ["published", "title", "authors", "pdf_url"]
