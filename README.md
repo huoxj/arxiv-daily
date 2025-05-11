@@ -1,6 +1,6 @@
 # Daily ArXiv
 
-## Updated at 2025-05-10
+## Updated at 2025-05-11
 
 | published | title | authors | pdf_url |
 | --- | --- | --- | --- |
